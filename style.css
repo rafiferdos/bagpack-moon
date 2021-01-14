@@ -12,6 +12,10 @@ p {
     font-family: 'Bebas Neue', cursive;
 }
 
+.header-1 {
+    color: #FA804C;
+}
+
 .navbar-nav {
     margin-left: auto;
     font-family: roboto;
